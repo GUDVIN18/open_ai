@@ -1,2 +1,2 @@
 # open_ai
-Бот для магазина open_ai
+Тесты open_ai
